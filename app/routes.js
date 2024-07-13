@@ -6,4 +6,8 @@
 const govukPrototypeKit = require('govuk-prototype-kit')
 const router = govukPrototypeKit.requests.setupRouter()
 
+const plugin = require("a-journey");
+
 // Add your routes here
+
+plugin(router);
