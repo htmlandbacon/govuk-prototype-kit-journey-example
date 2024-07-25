@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "@govuk-prototype-kit/common-templates": "2.0.1",
+    "alternative-formats-files-prototype": "github:dwp/alternative-formats-files-prototype",
     "govuk-frontend": "5.4.1",
     "govuk-prototype-kit": "13.16.2",
     "govuk-prototype-kit-journey-plugin": "github:htmlandbacon/govuk-prototype-kit-journey-plugin"
